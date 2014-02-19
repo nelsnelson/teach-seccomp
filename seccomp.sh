@@ -6,6 +6,7 @@ EOF
 cat << EOF > /tmp/whitelist
 1
 whitelist
+0
 1
 EOF
 echo "Executing lxc instance:"
